@@ -1,4 +1,4 @@
-# Análise de Performance e Engajamento da Página @cec_informs no X/Twitter durante a Temporada de Futebol
+# Análise de Performance e Engajamento da Página @cec_informs_ no X/Twitter durante a Temporada de Futebol
 
 Com o objetivo de aprimorar os dados da cec_informs_ e entender melhor o que os números dizem, esta análise foi realizada através de um conjunto de dois datasets. Através do X Premium, fiz a extração das métricas disponíveis no intervalo dos últimos doze meses e cruzei com uma tabela de jogos do Cruzeiro no período de agosto de 2025 a agosto de 2026.
 
