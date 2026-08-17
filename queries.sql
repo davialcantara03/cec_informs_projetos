@@ -88,7 +88,7 @@ SELECT
     TO_CHAR("data", 'YYYY-MM') AS mes_ano,
     SUM(posts_criados) AS total_posts,
     SUM(engajamentos) AS engajamento_total,
-    ROUND(SUM(engajamentos) / NULLIF(SUM(qtd_posts), 0)) AS media_engajamento_por_post
+    ROUND(SUM(engajamentos) / NULLIF(SUM(posts_criados), 0)) AS media_engajamento_por_post
 FROM dataset_cecinforms
 GROUP BY TO_CHAR("data", 'YYYY-MM')
 ORDER BY mes_ano ASC;
