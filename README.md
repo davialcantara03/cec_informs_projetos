@@ -2,7 +2,7 @@
 
 Com o objetivo de aprimorar os dados da cec_informs_ e entender melhor o que os números dizem, esta análise foi realizada através de um conjunto de dois datasets. Através do X Premium, fiz a extração das métricas disponíveis no intervalo dos últimos doze meses e cruzei com uma tabela de jogos do Cruzeiro no período de agosto de 2025 a agosto de 2026.
 
-Para a realização do projeto, optei por fazer cinco perguntas base para obter as respostas mais claras e inteligentes, utilizando **PostgreSQL via DBeaver** e **Power BI** para a visualização das consultas feitas nas plataformas citadas anteriormente.
+Para a realização do projeto, optei por fazer cinco perguntas base para obter as respostas mais claras e inteligentes, utilizando **Python(Pandas)** para limpeza, padronização de datas e cruzamentos das bases de dados no script `tratamento_dados.py` **PostgreSQL via DBeaver** e **Power BI** para a visualização das consultas feitas nas plataformas citadas anteriormente.
 
 ## Perguntas de Negócio
 
